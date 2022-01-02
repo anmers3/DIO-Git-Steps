@@ -1,5 +1,5 @@
 # DIO-Git-Steps
-Desafio de aprendizagem com GIT
+Desafio de aprendizagem com GIT, elaborado por Digital innovation one - DIO [aqui](https://www.dio.me/en)
 
 [Anmer Machado - Perfil linkedin](https://www.linkedin.com/in/anmer-machado/)
 
