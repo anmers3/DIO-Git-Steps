@@ -5,5 +5,6 @@ Desafio de aprendizagem com GIT
 
 [Passos iniciais aqui] (https://git-scm.com/downloads)
 
-# Command line
-# apt-get install git
+Command line - For Ubuntu, this PPA provides the latest stable upstream Git version
+add-apt-repository ppa:git-core/ppa 
+apt update; apt install git
