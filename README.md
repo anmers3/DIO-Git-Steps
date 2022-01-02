@@ -1,4 +1,9 @@
 # DIO-Git-Steps
 Desafio de aprendizagem com GIT
 
-[Perfil do usuário](https://www.linkedin.com/in/anmer-machado/)
+[Anmer Machado - Perfil linkedin](https://www.linkedin.com/in/anmer-machado/)
+
+[Passos iniciais aqui] (https://git-scm.com/downloads)
+
+# Command line
+# apt-get install git
