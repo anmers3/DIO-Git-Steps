@@ -5,6 +5,9 @@ git init
 
 * Clonar um repositório
 git clone <suaURL>
+  
+* Vincular repositorio local e remoto
+  git remote add origin <URL>
 
 * Exibe as alterações
 git status
